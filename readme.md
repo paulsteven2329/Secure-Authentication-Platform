@@ -91,3 +91,12 @@ Flutter • FastAPI • PostgreSQL • Redis • JWT • OAuth2 • Docker • B
 GitHub repo and demo APK available on request!
 
 #FullStack #Flutter #FastAPI #Authentication #CyberSecurity #MobileDevelopment #Backend #OAuth2 #JWT #Redis #PostgreSQL #Docker #SoftwareEngineering
+
+SECRET_KEY=your-super-secret-jwt-key-here-keep-it-long-and-random
+DATABASE_URL=postgresql://postgres:password@localhost:5432/authdb
+REDIS_URL=redis://localhost:6379
+GOOGLE_CLIENT_ID=your-google-client-id.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=your-google-client-secret
+GITHUB_CLIENT_ID=your-github-oauth-app-client-id
+GITHUB_CLIENT_SECRET=your-github-oauth-app-client-secret
+APP_URL=http://localhost:8000
